@@ -90,7 +90,7 @@ div.main{
   background-repeat: no-repeat;
 }
 div.main-text{
-  border: 5px solid #fff;
+  border: 3px solid #C05555;
   width: 40%;
   position: relative;
   top: 100px;
@@ -108,7 +108,7 @@ h3{
   color: #C05555;
 }
 .main-text a{
-  border: 3px solid #fff;
+  border: 5px solid #fff;
   text-decoration: none;
   color: black;
   padding: 5px 10px;

@@ -51,9 +51,14 @@ ul li{
 ul li a{
   text-decoration: none;
   color: #fff;
-  font-size: 1.2em;
+  
 }
 ul a:visited{
   color: #fff;
+}
+@media only screen and (min-width: 700px){
+  ul li a {
+    font-size: 1.2em
+  }
 }
 </style>
